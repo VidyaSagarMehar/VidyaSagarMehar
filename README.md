@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @VidyaSagarMehar
+- 👀 I’m interested in Full Stack Web Development.
+- 🌱 I’m currently learning Python.
+- 📫 Reach me @vidyasagark890@gmail.com
