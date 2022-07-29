@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @VidyaSagarMehar
 - 👀 I’m interested in Full Stack Web Development.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Fullsatck JavaScript web development
 - 📫 Reach me @vidyasagark890@gmail.com
