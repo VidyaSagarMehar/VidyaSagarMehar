@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&width=300&vCenter=true&lines=Hello+World!;My+name+is+Vidya+Sagar+Mehar;I+code+and+drink+coffee;" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&width=300&vCenter=true&lines=Hello+World!;My+name+is+Vidya+Sagar+Mehar;I+code+and+drink+coffee;I+love+to+play+videogames" />
 
  <i >More about me:</i>
  
