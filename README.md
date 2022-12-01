@@ -9,7 +9,7 @@
 </div>
  <i >More about me:</i>
 
-[![Instagram Badge](https://img.shields.io/badge/-vidyasagar__cherry-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)<p>
+[![Instagram Badge](https://img.shields.io/badge/-vidyasagar__cherry-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/vidyasagar_cherry/)](https://www.instagram.com/vidyasagar_cherry/)<p>
  <a href="https://www.linkedin.com/in/vidya-sagar-mehar-bb576814a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
  <a href="https://vidya-sagar-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/My_Website-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="Website"></a>
  <a></a>
