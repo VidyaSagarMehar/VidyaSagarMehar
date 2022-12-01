@@ -19,9 +19,20 @@
 
 ![Stalker Count](https://gpvc.arturio.dev/VidyaSAgarMehar)
 
-
+<!-- 
 ### Things I made
-[![todo](https://user-images.githubusercontent.com/92782806/194139424-9d65de93-70de-4370-9dbb-f6da5dbdefc9.png)](https://todoaddlist.netlify.app/)
+[![todo](https://user-images.githubusercontent.com/92782806/194139424-9d65de93-70de-4370-9dbb-f6da5dbdefc9.png)](https://todoaddlist.netlify.app/) -->
+
+### Blogs 
+[JavaScript interview preparation Cheatsheet](https://tealfeed.com/javascript-interview-preparation-cheat-sheet-8dhxd)
+
+[A brief guide on GIT](https://vidyasagar.hashnode.dev/a-brief-guide-about-git)
+
+[JavaScript Array](https://vidyasagar.hashnode.dev/javascript-array)
+
+[Concept of FLEXBOX](https://vidyasagar.hashnode.dev/concept-of-flexbox-in-detail)
+
+[Detail guide on CSS selectors](https://vidyasagar.hashnode.dev/detail-guide-on-css-selector)
 
 
 
