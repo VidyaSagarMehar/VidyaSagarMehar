@@ -66,9 +66,14 @@
  ### Activity Graph
 
  [![Vidya's github activity graph](https://activity-graph.herokuapp.com/graph?username=VidyaSagarMehar&theme=github)](https://github.com/VidyaSagarMehar/github-readme-activity-graph)  
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+ <p align="center"> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=VidyaSagarMehar&theme=highcontrast&hide_border=true" alt="VidyaSagarMehar" /></p>
 
 <!-- <p align="center">
   <img width="48%"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidyaSagarMehar&theme=dark&hide_langs_below=1&layout=compact" />
   <img width="41%"  align="center" src="https://github-readme-stats.vercel.app/api?username=VidyaSagarMehar&show_icons=true&theme=dark&line_height=31"/>
 </p> -->
+
+
