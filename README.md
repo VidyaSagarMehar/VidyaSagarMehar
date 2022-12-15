@@ -51,6 +51,8 @@
 
 
 ### Blogs 
+[Explore NodeJS V8 engine in details](https://vidyasagar.hashnode.dev/explore-nodejs-v8-engine-in-details)
+
 [JavaScript interview preparation Cheatsheet](https://tealfeed.com/javascript-interview-preparation-cheat-sheet-8dhxd)
 
 [A brief guide on GIT](https://vidyasagar.hashnode.dev/a-brief-guide-about-git)
