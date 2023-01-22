@@ -9,8 +9,8 @@
 </div>
  <i >More about me:</i>
 
-[![Instagram Badge](https://img.shields.io/badge/-vidyasagar__cherry-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/vidyasagar_cherry/)](https://www.instagram.com/vidyasagar_cherry/)<p>
- <a href="https://www.linkedin.com/in/vidya-sagar-mehar-bb576814a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+[![Instagram Badge](https://img.shields.io/badge/-vidyasagar__cherry-black?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/vidyasagar_cherry/)](https://www.instagram.com/vidyasagar_cherry/)<p>
+ <a href="https://www.linkedin.com/in/vidya-sagar-mehar-bb576814a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=black" alt="LinkedIn"></a>
  <a href="https://vidya-sagar-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/My_Website-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="Website"></a>
  <a></a>
 </p>
@@ -29,25 +29,20 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![Tailwind](https://img.shields.io/badge/-tailwind-black?style=flat-square&logo=tailwind-css)
+
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Mongoose](https://img.shields.io/badge/-mongoose-black?style=flat-square&logo=mongodb)
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-black?style=flat-square&logo=Express)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VSCODE](https://img.shields.io/badge/-VSCode-181717?style=flat-square&logo=visual-studio-code)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-<!-- ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud) -->
+
 
 
 ### Blogs 
