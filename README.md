@@ -33,6 +33,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![Tailwind](https://img.shields.io/badge/-tailwind-black?style=flat-square&logo=tailwind-css)
+![jQuery](https://img.shields.io/badge/-jQyery-black?style=flat-square&logo=jquery)
+![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
 
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
