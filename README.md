@@ -35,6 +35,7 @@
 ![Tailwind](https://img.shields.io/badge/-tailwind-black?style=flat-square&logo=tailwind-css)
 ![jQuery](https://img.shields.io/badge/-jQyery-black?style=flat-square&logo=jquery)
 ![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
+![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=scss)
 
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
