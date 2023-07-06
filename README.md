@@ -46,7 +46,8 @@
 ![VSCODE](https://img.shields.io/badge/-VSCode-181717?style=flat-square&logo=visual-studio-code)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-
+![Netlify](https://img.shields.io/badge/-netlify-black?style=flat-square&logo=netlify)
+![vercel](https://img.shields.io/badge/-vercel-black?style=flat-square&logo=vercel)
 
 
 ### Blogs 
