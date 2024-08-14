@@ -18,8 +18,6 @@
 
 📫 Reach me @vidyasagark890@gmail.com
 
-![Stalker Count](https://gpvc.arturio.dev/VidyaSAgarMehar)
-
 <!-- 
 ### Things I made
 [![todo](https://user-images.githubusercontent.com/92782806/194139424-9d65de93-70de-4370-9dbb-f6da5dbdefc9.png)](https://todoaddlist.netlify.app/) -->
@@ -67,7 +65,7 @@
 
  ### Activity
 
-[![VidyaSagar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VidyaSagarMehar&theme=github)](https://github.com/VidyaSagarMehar/github-readme-activity-graph)
+[VidyaSagar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VidyaSagarMehar&theme=github)](https://github.com/VidyaSagarMehar/github-readme-activity-graph)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
