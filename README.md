@@ -1,7 +1,5 @@
 <div align='center'>
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello_World;%20&fontAlign=75&fontAlignY=40&color=gradient" height="200"/> -->
-
-[![An image of @vidyasagarmehar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vidyasagarmehar)](https://holopin.io/@vidyasagarmehar)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello_World;%20&fontAlign=75&fontAlignY=40&color=gradient" height="200"/>
 
 # 👋 Hello, I'm [Vidya Sagar Mehar](https://vidya-sagar-portfolio.netlify.app/) ! 
 
