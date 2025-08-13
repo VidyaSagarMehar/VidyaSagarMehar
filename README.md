@@ -11,7 +11,7 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-vidyasagar__cherry-black?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/vidyasagar_cherry/)](https://www.instagram.com/vidyasagar_cherry/)<p>
  <a href="https://www.linkedin.com/in/vidya-sagar-mehar-bb576814a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=black" alt="LinkedIn"></a>
- <a href="https://vidya-sagar-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/My_Website-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="Website"></a>
+ <a href="https://x.com/VidyaSagarMehar" target="_blank"><img src="https://img.shields.io/badge/x.com-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="Website"></a>
  <a></a>
 </p>
 
@@ -49,23 +49,11 @@
 
 
 ### Blogs 
-[Explore NodeJS V8 engine in details](https://vidyasagar.hashnode.dev/explore-nodejs-v8-engine-in-details)
-
-[JavaScript interview preparation Cheatsheet](https://tealfeed.com/javascript-interview-preparation-cheat-sheet-8dhxd)
-
-[A brief guide on GIT](https://vidyasagar.hashnode.dev/a-brief-guide-about-git)
-
-[JavaScript Array](https://vidyasagar.hashnode.dev/javascript-array)
-
-[Concept of FLEXBOX](https://vidyasagar.hashnode.dev/concept-of-flexbox-in-detail)
-
-[Detail guide on CSS selectors](https://vidyasagar.hashnode.dev/detail-guide-on-css-selector)
+[Explore My blogs](https://vidyasagar.hashnode.dev/)
 
 
 
  ### Activity
-
-[VidyaSagar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VidyaSagarMehar&theme=github)](https://github.com/VidyaSagarMehar/github-readme-activity-graph)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
