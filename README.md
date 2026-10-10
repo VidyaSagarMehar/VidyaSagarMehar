@@ -1,69 +1,133 @@
-<div align='center'>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello_World;%20&fontAlign=75&fontAlignY=40&color=gradient" height="200"/>
 
-# 👋 Hello, I'm [Vidya Sagar Mehar](https://vidya-sagar-portfolio.netlify.app/) ! 
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&width=300&vCenter=true&lines=Hello+World!;I+code+and+drink+coffee;I+love+to+play+videogames" />
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:09090B,50:172554,100:312E81&text=VIDYA%20SAGAR%20MEHAR&fontSize=38&fontColor=FFFFFF&fontAlignY=45&desc=SOFTWARE%20ENGINEERING%20%C2%B7%20INTELLIGENT%20SYSTEMS&descSize=12&descAlignY=68&descColor=A5B4FC" />
+
+<br/>
+
+<!-- <a href="https://vidya-sagar-portfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-09090B?style=flat-square&logo=vercel&logoColor=white" />
+</a> -->
+<a href="https://www.linkedin.com/in/vidyasagarmehar/">
+  <img src="https://img.shields.io/badge/LINKEDIN-09090B?style=flat-square&logo=linkedin&logoColor=0A66C2" />
+</a>
+<a href="mailto:vidyasagarmehar@gmail.com">
+  <img src="https://img.shields.io/badge/CONTACT-09090B?style=flat-square&logo=gmail&logoColor=EA4335" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=A5B4FC&center=true&vCenter=true&width=650&lines=Engineering+Products+That+Scale.;Building+Intelligent+AI-Powered+Systems.;From+Thoughtful+Interfaces+to+Backend+Architecture.;Turning+Complex+Problems+Into+Useful+Software." />
 
 </div>
- <i >More about me:</i>
 
-[![Instagram Badge](https://img.shields.io/badge/-vidyasagar__cherry-black?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/vidyasagar_cherry/)](https://www.instagram.com/vidyasagar_cherry/)<p>
- <a href="https://www.linkedin.com/in/vidya-sagar-mehar-bb576814a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=black" alt="LinkedIn"></a>
- <a href="https://x.com/VidyaSagarMehar" target="_blank"><img src="https://img.shields.io/badge/x.com-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="Website"></a>
- <a></a>
-</p>
+---
 
+### `01` / PROFILE
 
-📫 Reach me @vidyasagark890@gmail.com
+I'm a software developer working at the intersection of **full-stack engineering and applied AI**.
 
-<!-- 
-### Things I made
-[![todo](https://user-images.githubusercontent.com/92782806/194139424-9d65de93-70de-4370-9dbb-f6da5dbdefc9.png)](https://todoaddlist.netlify.app/) -->
+With 3+ years of professional experience, I build production-grade web applications, scalable backend systems, and AI-powered solutions. My work spans frontend architecture, API development, database design, real-time communication, and intelligent application workflows.
 
-## ⚡ Technologies
+My focus is on creating software that is scalable, maintainable, and genuinely useful.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![Tailwind](https://img.shields.io/badge/-tailwind-black?style=flat-square&logo=tailwind-css)
-![jQuery](https://img.shields.io/badge/-jQyery-black?style=flat-square&logo=jquery)
-![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
-![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=scss)
+<br/>
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Mongoose](https://img.shields.io/badge/-mongoose-black?style=flat-square&logo=mongodb)
-![ExpressJS](https://img.shields.io/badge/-ExpressJS-black?style=flat-square&logo=Express)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VSCODE](https://img.shields.io/badge/-VSCode-181717?style=flat-square&logo=visual-studio-code)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![Netlify](https://img.shields.io/badge/-netlify-black?style=flat-square&logo=netlify)
-![vercel](https://img.shields.io/badge/-vercel-black?style=flat-square&logo=vercel)
+**01 — Product Engineering**
 
+Modern web applications, component architecture, performance, and seamless user experiences.
 
-### Blogs 
-[Explore My blogs](https://vidyasagar.hashnode.dev/)
+</td>
+<td width="50%" valign="top">
 
+**02 — Backend & Systems**
 
+APIs, authentication, databases, real-time communication, and deployment.
 
- ### Activity
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+**03 — AI Engineering**
 
- <p align="center"> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=VidyaSagarMehar&theme=highcontrast&hide_border=true" alt="VidyaSagarMehar" /></p>
+LLM applications, retrieval-augmented generation, semantic search, and AI agents.
 
-<p align="center">
-  <img width="48%"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidyaSagarMehar&theme=dark&hide_langs_below=1&layout=compact" />
-  <img width="41%"  align="center" src="https://github-readme-stats.vercel.app/api?username=VidyaSagarMehar&show_icons=true&theme=dark&line_height=31"/>
-</p>
+</td>
+<td width="50%" valign="top">
 
+**04 — Continuous Exploration**
 
+System design, intelligent workflows, developer tooling, and emerging technologies.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</td>
+</tr>
+</table>
+
+---
+
+### `02` / TECHNOLOGY
+
+**Languages & Application Development**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-18181B?style=flat-square&logo=express&logoColor=FFFFFF)
+
+**AI Engineering**
+
+![OpenAI](https://img.shields.io/badge/LLM_Applications-18181B?style=flat-square&logo=openai&logoColor=FFFFFF)
+![LangChain](https://img.shields.io/badge/LangChain-18181B?style=flat-square&logo=langchain&logoColor=1C3C3C)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-18181B?style=flat-square&logoColor=FFFFFF)
+![Vector Search](https://img.shields.io/badge/Vector_Search-18181B?style=flat-square&logoColor=FFFFFF)
+![AI Agents](https://img.shields.io/badge/AI_Agents-18181B?style=flat-square&logoColor=FFFFFF)
+
+**Data & Infrastructure**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-18181B?style=flat-square&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Qdrant](https://img.shields.io/badge/Qdrant-18181B?style=flat-square&logoColor=DC244C)
+![Docker](https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-18181B?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Git](https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=F05032)
+
+---
+
+### `03` / GITHUB ACTIVITY
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VidyaSagarMehar&show_icons=true&hide_border=true&bg_color=09090B&title_color=A5B4FC&text_color=D4D4D8&icon_color=818CF8&ring_color=818CF8" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidyaSagarMehar&layout=compact&hide_border=true&bg_color=09090B&title_color=A5B4FC&text_color=D4D4D8" />
+
+<br/><br/>
+
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=VidyaSagarMehar&hide_border=true&background=09090B&stroke=27272A&ring=818CF8&fire=818CF8&currStreakLabel=A5B4FC&sideLabels=D4D4D8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=71717A" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Building at the intersection of software and intelligence.
+
+<a href="https://github.com/VidyaSagarMehar">
+  <img src="https://img.shields.io/badge/Explore%20My%20Work-18181B?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<sub>Designed with intent. Built with curiosity. Improved with every iteration.</sub>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:312E81,50:172554,100:09090B" />
